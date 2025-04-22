@@ -5,7 +5,7 @@ This script automates the setup of the **OneDrive** client on Linux machines. It
 ---
 
 ![OneDrive Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_OneDrive_%282014-2019%29.svg)
-![Landscape Logo](https://git.ib-ci.com/projects/LANDSCAPE/avatar.png?s=96&v=1700652166802)
+![Landscape Logo]([https://git.ib-ci.com/projects/LANDSCAPE/avatar.png?s=96&v=1700652166802](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/815bc1a2-4a00-45e4-98da-b0547c892a55/Canonical_Landscape_Logo..jpg))
 
 ##  Script Overview
 
@@ -16,7 +16,7 @@ This script automates the setup of the **OneDrive** client on Linux machines. It
    - Removes any existing OneDrive configuration to start fresh.
 
 ### 3. **Microsoft Authentication**
-   - Launches the authentication process via **zenity** to prompt the user for the authentication URL and complete the login.
+   - Launches the authentication process via **yad** to prompt the user for the authentication URL and complete the login.
 
 ### 4. **First Sync (Upload-Only)**
    - Performs an initial sync to upload the user's Desktop folder to OneDrive.
