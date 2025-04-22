@@ -1,11 +1,11 @@
-#  OneDrive Setup Script for Linux
+#  OneDrive Setup Script for Linux - Deployment from Management System
 
 This script automates the setup of the **OneDrive** client on Linux machines. It installs required packages, cleans up old configurations, handles Microsoft authentication, performs an initial sync, fixes symlinks, and configures the system for automatic syncing via **systemd**.
 
 ---
 
 ![OneDrive Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_OneDrive_%282014-2019%29.svg)
-![Landscape Logo]([https://git.ib-ci.com/projects/LANDSCAPE/avatar.png?s=96&v=1700652166802](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/815bc1a2-4a00-45e4-98da-b0547c892a55/Canonical_Landscape_Logo..jpg))
+![Landscape Logo]([[https://git.ib-ci.com/projects/LANDSCAPE/avatar.png?s=96&v=1700652166802](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/815bc1a2-4a00-45e4-98da-b0547c892a55/Canonical_Landscape_Logo..jpg)](https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/815bc1a2-4a00-45e4-98da-b0547c892a55/Canonical_Landscape_Logo..jpg))
 
 ##  Script Overview
 
